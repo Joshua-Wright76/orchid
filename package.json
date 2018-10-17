@@ -1,0 +1,27 @@
+{
+  "name": "orchid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-Wright76/orchid.git"
+  },
+  "author": "Joshua Wright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joshua-Wright76/orchid/issues"
+  },
+  "homepage": "https://github.com/Joshua-Wright76/orchid#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "twilio": "^3.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
